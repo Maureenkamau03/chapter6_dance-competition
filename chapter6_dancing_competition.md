@@ -38,11 +38,11 @@ In our lesson today, we’re stepping into the spotlight of an exciting dance co
 - [Mouse Skills](/schools/mouse_skills/chapter1_introduction.md)
 - [Week 1: Getting Started With Scratch](/schools/coding/02_Scratch_basic/term1/chapter1_getting_started_with_Scratch_basic.md)
 - [Week 2: Animate Your Name](/schools/coding/02_Scratch_basic/term1/chapter2_animate_your_name.md) 
-- [Week 3: Under The Sea (Part 1)](/schools/coding/02_Scratch_basic/term1/chapter3_under_the_sea_part1.md) (this week)
+- [Week 3: Under The Sea (Part 1)](/schools/coding/02_Scratch_basic/term1/chapter3_under_the_sea_part1.md) 
 - [Week 4: Under The Sea (Part 2)](/schools/coding/02_Scratch_basic/term1/chapter4_under_the_sea_part2.md)
-- [Week 5 (Assessment Project): Farm Animals](/schools/coding/02_Scratch_basic/term1/chapter5_assessment_project_farm_animals.md)
-- [Week 6: My School (Part 1)](/schools/coding/02_Scratch_basic/term1/chapter6_my_school_part1.md)
-- [Week 7: My School (Part 2)](/schools/coding/02_Scratch_basic/term1/chapter7_my_school_part2.md)
+- [Week 5 (Assessment Project): About myself](/schools/coding/02_Scratch_basic/term1/chapter5_assessment_project_farm_animals.md)
+- [Week 6: Dance competition (Part 1)](/schools/coding/02_Scratch_basic/term1/chapter6_my_school_part1.md) (this week)
+- [Week 7: Dance competition (Part 2)](/schools/coding/02_Scratch_basic/term1/chapter7_my_school_part2.md)
 - [Week 8: My School (Part 3)](/schools/coding/02_Scratch_basic/term1/chapter8_my_school_part3.md)
 - [Week 9 (End-term Project): Story Of My Life (Part 1)](/schools/coding/02_Scratch_basic/term1/chapter9_story_of_my_life_part1.md)
 - [Week 10 (End-term Project): Story Of My Life (Part 2)](/schools/coding/02_Scratch_basic/term1/chapter10_story_of_my_life_part2.md)
@@ -100,7 +100,24 @@ In our lesson today, we’re stepping into the spotlight of an exciting dance co
 - [Improve](#improve)
 - [Conclusion](#conclusion)
 
-        
+### Today's Vocabulary
+
+> [Teacher's notes] Student Engagement
+>
+> Write this vocabulary on the whiteboard so all students can see it.
+> 
+> Ask the class to read it out loud (three times)
+>
+> Ask the students what SCRIPT is (and wait for their responses).
+>    
+
+**SCRIPT**: A series of blocks snapped together to create instructions for a sprite. It tells a sprite what to do and when.
+
+For example:
+
+![Vocabulary](/images/chapter6/chapter6_vocabulary.png)
+
+This is a **script** that will make our sprite move ten steps when the green flag is clicked.
 
 ### Lesson Objectives
 
@@ -495,26 +512,85 @@ How will Marian respond to this message?
 
 Update Marian's code as shown below. MAke sure that you have clicked on Marian to avoid adding code to the wrong sprite.
 
-![Clapping for chanp99](/images/chapter6/chapterr6_clapping_champ99.gif)
+![Clapping for champ99](/images/chapter6/chapter6_clapping.gif)
 
 Below is the script
 
-![Clapping for chanp99](/images/chapter6/chapter6_clapping_for_champ99.png)
+![Clapping for champ99](/images/chapter6/chapter6_clapping_for_champ99.png)
 
 Click on the green flag to test your code. What do yu observe?
 
 Our competiton is now 80% done, with Anina as our last contestant. Let us welcome Anina to the floor. Update Marian's script to welcome Anina as shown below.
 
-![Clapping for champ99](/images/chapter6/chapter6_welcome_anina.png)
+![Welcome Anina dance](/images/chapter6/chapter6_welcome_anina.png)
 
 we have sent out a message to Anina so that she can start dancing.
 
 #### Step 5: Anina Dance
 Let us add Anina's script. Click on Anina. There is no code for her just yet. 
 
-![Clapping for champ99](/images/chapter6/chapter6_anina_dance.png)
+![Anina's script](/images/chapter6/chapter6_anina_dance.png)
 
+Anina's scripts ends with her sending out a message that she is done dancing. Who do you think should respond to this message? You are right! Our emcee should respond to this message. 
 
+#### Step 5: Marian
+Let us review our project to see how the emcee responds after Anina finishes dancing.
 
+> [Teacher's notes]
+>
+>Run the project again and let them observe
+>
 
+- She switches to a different costume
+- She asks the audience to clap for Anina
+- Sound of people clapping is heard
+- She switches to a different costume
+- She announces the winner
+- Sound of people clapping is heard
+- Everything stops
 
+Click on Marian so we can update her script with these actions. We will start by adding a script to ask the audience to clap for Anina and aslo asd the clapping sound. This is shown below.
+
+![Clapping for Anina](/images/chapter6/chapter6_clapping_for_anina.gif)
+
+Below is the script.
+
+![Clapping for Anina](/images/chapter6/chapter6_clapping_for_anina.png)
+
+Click on the green flag to test your code.
+
+The long awaited time is finally here! When we get to know who the winner is. Our emcee is going to announce the winner for us. Who do you think gave us the best moves?
+
+Let us update Marian's script to announce who the winner of the ultimate dance competition is.
+
+Update your code as follows:
+
+![Announce winner](/images/chapter6/chapter6_announce_winner.gif)
+
+Below is the script:
+
+![Announce winner](/images/chapter6/chapter6_announce_winner.png)
+
+Click the green flag to test your code
+
+## Share
+
+Well done! You have completed your project. Share your work with your friends. You can invite them to your laptop to see or you can visit them to get a glimpse of what they have done.
+
+## Improve
+
+It is now time to put your creativity to work. How do you think you can improve your project? It is okay to add, remove, or completely change your code to make your project better. Take this as an opportunity to test your Scratch skills as well as learn new blocks.
+
+## Conclusion
+
+Congratulations on completing your second animation! We have explored more blocks in Scratch. We will continue building our knowledge in Scratch with different projects. What project should we build next?
+
+> [Teacher's notes] Wrap up
+>
+>Ask them whether they have any questions before you end the class.
+>
+> Ensure that each student's work is saved.
+>
+> Once saved, they can close the Scratch app.
+>
+> Guide the students to exit the room in an orderly manner.
